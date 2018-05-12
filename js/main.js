@@ -19,6 +19,7 @@ function initMap() {
 		content: popupContent
 	});
 	//I cool man here!
+	//fjsdfkjsdlfjls
 	marker.addListener('click', function() {
 		infowindow.open(map, marker);
 	});

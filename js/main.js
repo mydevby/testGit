@@ -18,7 +18,7 @@ function initMap() {
 	infowindow = new google.maps.InfoWindow({
 		content: popupContent
 	});
-	//I cool man here!
+	//Hello js!
 	//fjsdfkjsdlfjls
 	marker.addListener('click', function() {
 		infowindow.open(map, marker);

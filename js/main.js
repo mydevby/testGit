@@ -23,6 +23,7 @@ function initMap() {
 		infowindow.open(map, marker);
 	});
 };
+//Denis was here
 $(document).ready(function(){
 	$('.js-go').click( function(){
 		var scroll_el = $(this).data('place');

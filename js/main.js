@@ -1,4 +1,4 @@
-//*************scroll + map***************
+//Ya plohoi chelovek
 function initMap() {
 	var coordinates = { lat: 59.879795, lng: 30.400109 },
 		image = 'img/map-marker.png';
